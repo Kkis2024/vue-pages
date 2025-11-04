@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>testing git hub pages with vue.js</h1>
-   
+   </div>
 </template>
 
 <script>
